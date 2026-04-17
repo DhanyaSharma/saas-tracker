@@ -3,7 +3,6 @@
 ## Overview
 
 SaaS Subscription Tracker is a full-stack web application that helps users manage and monitor their subscription-based services. It provides a centralized dashboard to track expenses, visualize spending patterns, and manage subscriptions efficiently.
-
 ---
 ## Features
 * User authentication using JWT
